@@ -1,0 +1,6 @@
+[submodule "nyupyu-site-server"]
+	path = nyupyu-site-server
+	url = https://github.com/nyupyu/nyupyu-site-server
+[submodule "nyupyu-site-front"]
+	path = nyupyu-site-front
+	url = https://github.com/nyupyu/nyupyu-site-front
