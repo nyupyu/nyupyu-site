@@ -1,0 +1,38 @@
+# Ignore node_modules in both front and server directories
+/nyupyu-site-front/node_modules
+/nyupyu-site-server/node_modules
+
+# Ignore .pnp files
+/nyupyu-site-front/.pnp
+/nyupyu-site-front/.pnp.js
+
+# Ignore coverage directory
+/nyupyu-site-front/coverage
+
+# Ignore build directory
+/nyupyu-site-front/build
+
+# Miscellaneous files
+/nyupyu-site-front/.DS_Store
+/nyupyu-site-front/.env.local
+/nyupyu-site-front/.env.development.local
+/nyupyu-site-front/.env.test.local
+/nyupyu-site-front/.env.production.local
+
+# Logs
+/nyupyu-site-front/npm-debug.log*
+/nyupyu-site-front/yarn-debug.log*
+/nyupyu-site-front/yarn-error.log*
+
+# Ignore environment files in server directory
+/nyupyu-site-server/.env
+
+# Ignore IDE/editor specific files
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
