@@ -1,5 +1,7 @@
 Project README
+
 Description
+
 I am building my own website using the following stack:
 
 Backend: Node.js with PostgreSQL database through Prisma
