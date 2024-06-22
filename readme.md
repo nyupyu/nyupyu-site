@@ -11,8 +11,6 @@ Technologies Used:
 
 - PostgreSQL
 
-- Prisma
-
 - React
 
 - TypeScript
