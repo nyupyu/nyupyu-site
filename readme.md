@@ -1,5 +1,4 @@
-Description:
-I am building my own website using the following stack:
+Building my own website using the following stack:
 
 - Backend: Node.js with PostgreSQL database through Prisma
 - Frontend: React with TypeScript
